@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+.claude/
+data/
+emotion_model/
+emotion_model/checkpoint-*/
+emotion_model/runs/
